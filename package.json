@@ -14,9 +14,6 @@
     "github-content": "^1.0.1",
     "scale-that-svg": "^1.0.5",
     "sharp": "^0.28.3",
-    "svg-png-converter": "0.0.9",
-    "svg-to-png": "^4.0.0",
-    "svg2img": "^0.9.3",
-    "svg2png": "^4.1.1"
+    "svg-png-converter": "0.0.9"
   }
 }
