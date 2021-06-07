@@ -1,0 +1,22 @@
+{
+  "name": "coin_icon_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "github-content": "^1.0.1",
+    "scale-that-svg": "^1.0.5",
+    "sharp": "^0.28.3",
+    "svg-png-converter": "0.0.9",
+    "svg-to-png": "^4.0.0",
+    "svg2img": "^0.9.3",
+    "svg2png": "^4.1.1"
+  }
+}
